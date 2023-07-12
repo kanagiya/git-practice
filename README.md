@@ -3,4 +3,5 @@ to exercise lots of things
 revised on rebase-practice to learn conflict
 to learn rebase pull
 stash to come into conflict
-learn stash tracked
+learn stash (2nd)
+
